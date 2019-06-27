@@ -1,0 +1,22 @@
+.left{
+    color:red ;
+    font-size:40px;
+}
+.right{
+    color:green;
+    font-size:40px;
+}
+#t1{
+    color:yellow;
+    border:#css;
+}
+#t2{
+    color:blue;
+}
+.header li{
+           color:red;
+           border:1px solid #ccc;
+}
+.header > ul > li:nth-child(3){
+    background-color:pink;
+}
